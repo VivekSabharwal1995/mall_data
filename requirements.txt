@@ -1,4 +1,6 @@
 nltk
-matplotlib
 pandas
-sci-py
+matplotlib
+plotly
+scipy
+streamlit
