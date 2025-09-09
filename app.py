@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-pip install nltk
+
 
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
@@ -351,5 +351,6 @@ with right:
 
 
     st.markdown("</div>", unsafe_allow_html=True)
+
 
 
